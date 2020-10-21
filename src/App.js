@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
    <div>
-     <h1>Hello WebJam2020!</h1>
+     <h1>Hi my name is spud!</h1>
    </div> 
   );
 }
