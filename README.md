@@ -1,4 +1,15 @@
-<<<<<<< HEAD
+## To Get Started:
+
+1.) `npm install`
+
+To start server:
+1.) `cd backend`
+2.) `npm install`
+3.) `nodemon server`
+
+To start web app:
+1.) `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +78,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# WebJam2020
-Our submission for UCI ICSSC's 2020 WebJam Competition
->>>>>>> 48b568a465a1f3163457e1dda093024d99601e60
